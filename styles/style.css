@@ -100,6 +100,11 @@ header .conteiner-logo .number-top button {
   align-items: center;
   padding-bottom: 100px;
 }
+@media (min-width: 900px) {
+  .main-conteiner .main-conteiner {
+    max-width: 600px;
+  }
+}
 .main-conteiner .types-of-chair {
   background-color: #FFFFFF;
   padding-top: 40px;
